@@ -1,7 +1,7 @@
 {
   "name": "Dexspace",
   "symbol": "DSC",
-  "image": "https://assets.dexspace.io/images/DSCk6ziAoMuvo2GgYr5Ste7wbbdB66jsss6MQ8iUbkq6.png",
+  "image": "https://raw.githubusercontent.com/dexspace-llc/metadata/refs/heads/main/solana/DSCk6ziAoMuvo2GgYr5Ste7wbbdB66jsss6MQ8iUbkq6/logo.png,
   "description": "DSC is the native utility token of the Dexspace platform – a multi-chain decentralized exchange hub designed to simplify crypto trading, empower token creators, and provide tools for investors and communities to thrive.",
   "external_url": "https://dexspace.io"
 }
